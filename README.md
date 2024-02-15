@@ -41,20 +41,20 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=divyansh956&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh956&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanmayAgrawal2764&theme=transparent)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayAgrawal2764&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🥇 Holopin Badges From HACKTOBERFEST
-[![@divyansh956's Holopin board](https://holopin.me/divyansh956)](https://holopin.io/@divyansh956)
+[![@Tanmay's Holopin board](https://holopin.me/tanmayagrawal2764)](https://holopin.io/@tanmayagrawal2764)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=divyansh956&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=TanmayAgrawal2764&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=divyansh956&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanmayAgrawal2764&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **TanmayAgrawal2764/TanmayAgrawal2764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
