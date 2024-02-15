@@ -1,3 +1,4 @@
+<div align="center" width="50">
 ### Hi there 👋
 
 ![Tanmay Agrawal](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
@@ -89,6 +90,8 @@ class About extends Me {
 
 ---
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanmayAgrawal2764&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 <!--
 **TanmayAgrawal2764/TanmayAgrawal2764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
