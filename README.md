@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=410&pause=1000&color=07F7EC&background=020432&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+My+name+is+Tanmay+Agrawal.;I+am+a+Competitive+Programmer.;I+am+Full+Stack+Developer.)](https://git.io/typing-svg)
+
+
+
+[![](https://visitcount.itsvg.in/api?id=iamtanmayag&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 <!--
 **TanmayAgrawal2764/TanmayAgrawal2764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
