@@ -1,11 +1,13 @@
 <div align="center" width="50">
+
+ 
 ### Hi there 👋
 
 ![Tanmay Agrawal](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
 
-<img align = "right"  src = "https://api.visitorbadge.io/api/combined?path=TanmayAgrawal2764&label=GitHub&labelColor=%23d9e3f0&countColor=%2337d67a&style=flat-square&labelStyle=upper"  />
+<img align = "center"  src = "https://api.visitorbadge.io/api/combined?path=TanmayAgrawal2764&label=GitHub&labelColor=%23d9e3f0&countColor=%2337d67a&style=flat-square&labelStyle=upper"  />
 
-# 💫 About Me: [![](https://visitcount.itsvg.in/api?id=TanmayAgrawal2764&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+#  💫 About Me: [![](https://visitcount.itsvg.in/api?id=TanmayAgrawal2764&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=410&duration=3000&pause=10&color=07F7EC&background=020432&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+My+name+is+Tanmay+Agrawal.;I+am+a+Competitive+Programmer.;I+am+a+Full+Stack+Developer.)](https://git.io/typing-svg)<br>
 
@@ -15,6 +17,8 @@
 <a href="https://www.codechef.com/users/iamtanmayag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iamtanmayag" height="50" width="50" /></a>
 <a href="https://codeforces.com/profile/iamtanmayag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iamtanmayag" height="50" width="50" /></a>
 <a href="https://leetcode.com/iamtanmayag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamtanmayag" height="50" width="50" /></a>
+<a href="https://www.codingninjas.com/codestudio/profile/iamtanmayag" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIIfWq3gQ_njMihHEN9FAPRRiPqftzlfKJjg&usqp=CAU" alt="iamtanmayag" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/CSEC_21B0101122?hr_r=1" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-3521478-2944922.png?f=webp&w=256" alt="iamtanmayag" height="50" width="50" /></a>
 
 <br><br>
 
@@ -22,7 +26,8 @@
 # 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/tanmay-agrawal-23102320a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tanmayagrawal" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="divyansh956" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iamtanmayag/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamtanmayag" height="30" width="40" /></a>
+<a href="https://twitter.com/TanmayA14399319" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamtanmayag" height="30" width="40" /></a>
 
  
 <img src="https://github.com/divyansh956/divyansh956/blob/main/img/dev-working_rounded.gif?raw=true" href="https://github.com/divyansh956" alt="CoDiNg RocKs"  width="60%"/> 
@@ -48,9 +53,6 @@ class About extends Me {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TanmayAgrawal2764&theme=transparent)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayAgrawal2764&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🥇 Holopin Badges From HACKTOBERFEST
-[![@Tanmay's Holopin board](https://holopin.me/tanmayagrawal2764)](https://holopin.io/@tanmayagrawal2764)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TanmayAgrawal2764&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
@@ -91,7 +93,12 @@ class About extends Me {
 ---
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanmayAgrawal2764&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/mananbansal2002" width="75%"/><br>
+<img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
+
+
 </div>
+
 <!--
 **TanmayAgrawal2764/TanmayAgrawal2764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
